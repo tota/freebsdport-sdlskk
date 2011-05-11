@@ -1,0 +1,9 @@
+SDLSKK is SKK on SDL.
+SKK is `Simple Kana to Kanji conversion program', very simple Japanese
+input methods on Emacs.
+SDL is `Simple Directmedia Layer', cross-platform multimedia library.
+Please see http://www.libsdl.org/ and http://openlab.ring.gr.jp/skk/ .
+
+This library enables you to input Japanese on SDL.
+
+WWW:	http://www.kmc.gr.jp/~ohai/sdlskk.html

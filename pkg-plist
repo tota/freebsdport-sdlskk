@@ -1,0 +1,6 @@
+include/SDL/sdlskk.h
+lib/libSDLSKK.la
+lib/libSDLSKK.so.2
+lib/libSDLSKK.so
+lib/libSDLSKK.a
+@dirrmtry include/SDL
